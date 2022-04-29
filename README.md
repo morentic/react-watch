@@ -1,4 +1,4 @@
-# React Stopwatch
+# React Watch
 
 ## Color Palette
 
